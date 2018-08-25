@@ -7,7 +7,7 @@
 2. Posicionar as folhas de estilo no topo da página para que elas possam carregar progressivamente e desde o início do seu carregamento o usuário possa ver o design
 3. Redimensionar as imagens para que aumente a velocidade do seu carregamento e com isso diminuir o page load
 3) Quais ferramentas você usa para testar a performance do seu código?
-Google PageSpeed Insights e Pingdom Tools
+- Google PageSpeed Insights e Pingdom Tools
 4) Considere o HTML5 como uma plataforma web aberta. Quais são os blocos de construção de HTML5?
 - div (divisão)
 - h1 ao h6 (títulos)
